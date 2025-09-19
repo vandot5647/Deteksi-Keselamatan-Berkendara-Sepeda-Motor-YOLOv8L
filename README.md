@@ -1,3 +1,4 @@
+<img width="1600" height="929" alt="image" src="https://github.com/user-attachments/assets/57b6cfbb-7ad6-4fd8-9a5d-80f1d08a7c35" />
 Aplikasi deteksi keselamatan pengendara motor menggunakan YOLO.
 
 📋 Persyaratan
